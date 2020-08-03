@@ -2,7 +2,7 @@
 
 Primera entrega, crear un repositorio
 
-Fabricante: Acer
+* Fabricante: Acer
 
 Modelo: Aspire A515-52
 
