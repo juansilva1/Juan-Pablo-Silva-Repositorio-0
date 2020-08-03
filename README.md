@@ -1,6 +1,6 @@
 # MCOC2020-P0
 
-Primera entrega, crear un repositorio
+Mi computador
 
 * Fabricante: Acer
 
