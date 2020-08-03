@@ -1,4 +1,4 @@
-# Juan-Pablo-Silva-Repositorio-0
+# MCOC2020-P0
 
 Primera entrega, crear un repositorio
 
