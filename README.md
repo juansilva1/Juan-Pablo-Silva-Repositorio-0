@@ -17,3 +17,6 @@ Mi computador
 * Cantidad de nucleos: 4
 
 * Cantidad de procesadores lógicos (hilos): 8
+
+npm install -g Juan-Pablo-Silva-Repositorio-0-pdf
+Juan-Pablo-Silva-Repositorio-0-pdf /path/to/Juan-Pablo-Silva-Repositorio-0
