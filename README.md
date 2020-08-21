@@ -20,3 +20,16 @@ Mi computador
 
 npm install -g Juan-Pablo-Silva-Repositorio-0-pdf
 Juan-Pablo-Silva-Repositorio-0-pdf /path/to/Juan-Pablo-Silva-Repositorio-0
+
+'print("hola")'
+'  a+=1'
+
+```
+print("hola")
+  a+=1
+``` 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
